@@ -1,0 +1,1 @@
+cfssl gencert -initca root/csr.json | cfssljson -bare root/ca

@@ -1,0 +1,14 @@
+{
+	"CN": "$Something",
+	"key": {
+		"algo": "ecdsa",
+		"size": 384
+	},
+	"names": [
+		{
+			"C": "UK",
+			"O": "$FullCompanyName"
+		}
+	],
+	"Hosts":["$Something"]
+}

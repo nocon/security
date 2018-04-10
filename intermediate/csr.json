@@ -1,0 +1,16 @@
+{
+	"CN": "$CompanyName Intermediate CA",
+	"key": {
+		"algo": "ecdsa",
+		"size": 384
+	},
+	"names": [
+		{
+			"C": "UK",
+			"O": "$FullCompanyName"
+		}
+	],
+	"ca": {
+		"expiry": "2160h"
+	}
+}
